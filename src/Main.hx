@@ -491,7 +491,7 @@ class Main {
 
 
 	  	Text.wordwrap=Gfx.screenwidth;
-		Text.display(1,y,"by increpare + noa_cubestudio",Col.BLACK);
+		Text.display(1,y,"by increpare + noa hoffmann",Col.BLACK);
 	  	Text.wordwrap=0;
 
 	}
